@@ -7,10 +7,31 @@
     "text": "See Knuth (1984) for additional discussion of literate programming.\n\n1 + 1\n\n[1] 2\n\n\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
   },
   {
+    "objectID": "methods.html",
+    "href": "methods.html",
+    "title": "Methods",
+    "section": "",
+    "text": "The data come from the third wave of the Midlife in the United State (MIDUS 3) (Carol Ryff, n.d.).\n\nIn 2013 a third wave (MIDUS 3) of survey data was collected on longitudinal participants. Data collection for this follow-up wave largely repeated baseline assessments (e.g., phone interview and extensive self-administered questionnaire), with additional questions in selected areas such as economic recession experiences. Cognitive functioning data were also collected at the same time, while data collection for the daily diary, biomarker, and neuroscience projects commenced in 2017."
+  },
+  {
+    "objectID": "methods.html#measures",
+    "href": "methods.html#measures",
+    "title": "Methods",
+    "section": "Measures",
+    "text": "Measures\n\nDemographics\n\n\nHealth\n\n\nReligious variables"
+  },
+  {
+    "objectID": "methods.html#data-analysis",
+    "href": "methods.html#data-analysis",
+    "title": "Methods",
+    "section": "Data Analysis",
+    "text": "Data Analysis\n\n\n\n\nCarol Ryff, John Ayanian, David Almeida. n.d. “Midlife in the United States (MIDUS 3), 2013-2014.” https://doi.org/10.3886/ICPSR36346.v7."
+  },
+  {
     "objectID": "references.html",
     "href": "references.html",
     "title": "References",
     "section": "",
-    "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+    "text": "Carol Ryff, John Ayanian, David Almeida. n.d. “Midlife in the\nUnited States (MIDUS 3), 2013-2014.” https://doi.org/10.3886/ICPSR36346.v7.\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
   }
 ]
